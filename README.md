@@ -14,7 +14,7 @@ This project is organized as follows:
 6. perform the variant interpretation using PCA, UMAP, K-Means clustering and Pathway analysis;
 7. remapping procedure if needed (whenever the training has been done on a different genome assembly);
 8. Final testing on external dataset from new cohort ( 3rd, 4th wave, etc..).
-9. 
+
 **Authors**: Anthony Onoja, Nicola Picchiotti,GEN-COVID Multicenter Study, Francesca Colombo, Francesca Chiaromonte, Alessandra Renieri, Simone Furini, Francesco Raimondi.
 
 **Date**: 15/10/2021
